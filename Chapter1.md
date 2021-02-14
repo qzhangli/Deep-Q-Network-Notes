@@ -7,6 +7,8 @@ Reinforcement Learning: the main idea is that the agent learn from the environme
 
 Markov Decision Process (MDP): the process to maximize the cumulative reward.
 
-
+#### Observations/States
+- Observations: partial world with only observed environment.
+- States: the complete world with no hidden information
 
 
