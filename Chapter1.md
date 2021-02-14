@@ -14,3 +14,6 @@ Markov Decision Process (MDP): the process to maximize the cumulative reward.
 #### Action Space
 - Discrete space: finite number of possible actions
 - Continuous space: infinite number of possible actions.
+
+#### Reward & Discounting
+${16}_{8}O{2+}_{2}$
