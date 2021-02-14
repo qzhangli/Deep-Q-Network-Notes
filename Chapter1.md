@@ -5,3 +5,4 @@ Reinforcement Learning: the main idea is that the agent learn from the environme
 - S1: Environment transitions to a new state S1 — new frame.
 - R1: Environment gives some reward R1 to the agent — we’re not dead (Positive Reward +1).
 
+Markov Decision Process (MDP): the process to maximize the cumulative reward.
