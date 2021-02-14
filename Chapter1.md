@@ -20,4 +20,4 @@ Cumulative reward: R(τ) is simply adding reward at each step t. 其中τ指一�
 单纯的使用cumulative reward不够，因为游戏刚开始一般reward较容易获得，而后更难。
 因此需要引入discount rate: gamma
 
-New Q = Current Q + lr * [Reward + gamma * (highest Q value between possible actions from new state) — Current Q value ]
+New Q = Current Q + lr * [Reward + gamma * (highest Q value between possible actions from new state) — Current Q]
