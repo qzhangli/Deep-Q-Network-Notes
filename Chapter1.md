@@ -9,6 +9,8 @@ Markov Decision Process (MDP): the process to maximize the cumulative reward.
 
 #### Observations/States
 - Observations: partial world with only observed environment.
-- States: the complete world with no hidden information
+- States: complete world with no hidden information
 
-
+#### Action Space
+- Discrete space: finite number of possible actions
+- Continuous space: infinite number of possible actions.
